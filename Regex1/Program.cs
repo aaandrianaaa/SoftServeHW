@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.RegularExpressions;
 
-namespace ConsoleApp1
+namespace Regex1
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine("Enter Date&Time");
                 string date = Console.ReadLine();
-               // date = date.Remove(date.Length - 1, 1);
+                // date = date.Remove(date.Length - 1, 1);
 
                 if (Regex.IsMatch(date, pattern))
                 {

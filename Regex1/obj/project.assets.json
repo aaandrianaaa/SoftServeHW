@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\SoftServeHW\\ConsoleApp1\\Regex1.csproj",
+      "projectUniqueName": "D:\\work\\SoftServeHW\\Regex1\\Regex1.csproj",
       "projectName": "Regex1",
-      "projectPath": "D:\\work\\SoftServeHW\\ConsoleApp1\\Regex1.csproj",
+      "projectPath": "D:\\work\\SoftServeHW\\Regex1\\Regex1.csproj",
       "packagesPath": "C:\\Users\\aandr\\.nuget\\packages\\",
-      "outputPath": "D:\\work\\SoftServeHW\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\work\\SoftServeHW\\Regex1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
