@@ -1,0 +1,11 @@
+D:\work\SoftServeHW\Algorithm1\bin\Debug\netcoreapp3.1\Algorithm1.exe
+D:\work\SoftServeHW\Algorithm1\bin\Debug\netcoreapp3.1\Algorithm1.deps.json
+D:\work\SoftServeHW\Algorithm1\bin\Debug\netcoreapp3.1\Algorithm1.runtimeconfig.json
+D:\work\SoftServeHW\Algorithm1\bin\Debug\netcoreapp3.1\Algorithm1.runtimeconfig.dev.json
+D:\work\SoftServeHW\Algorithm1\bin\Debug\netcoreapp3.1\Algorithm1.dll
+D:\work\SoftServeHW\Algorithm1\bin\Debug\netcoreapp3.1\Algorithm1.pdb
+D:\work\SoftServeHW\Algorithm1\obj\Debug\netcoreapp3.1\Algorithm1.csprojAssemblyReference.cache
+D:\work\SoftServeHW\Algorithm1\obj\Debug\netcoreapp3.1\Algorithm1.AssemblyInfoInputs.cache
+D:\work\SoftServeHW\Algorithm1\obj\Debug\netcoreapp3.1\Algorithm1.AssemblyInfo.cs
+D:\work\SoftServeHW\Algorithm1\obj\Debug\netcoreapp3.1\Algorithm1.dll
+D:\work\SoftServeHW\Algorithm1\obj\Debug\netcoreapp3.1\Algorithm1.pdb
