@@ -13,7 +13,6 @@ namespace Regex1
             {
                 Console.WriteLine("Enter Date&Time");
                 string date = Console.ReadLine();
-                // date = date.Remove(date.Length - 1, 1);
 
                 if (Regex.IsMatch(date, pattern))
                 {
