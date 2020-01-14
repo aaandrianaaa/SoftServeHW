@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\work\\SoftServeHW\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "D:\\work\\SoftServeHW\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\work\\SoftServeHW\\ConsoleApp1\\Regex1.csproj",
+      "projectName": "Regex1",
+      "projectPath": "D:\\work\\SoftServeHW\\ConsoleApp1\\Regex1.csproj",
       "packagesPath": "C:\\Users\\aandr\\.nuget\\packages\\",
       "outputPath": "D:\\work\\SoftServeHW\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
