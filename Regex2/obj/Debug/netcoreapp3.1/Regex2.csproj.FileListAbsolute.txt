@@ -1,0 +1,11 @@
+D:\work\SoftServeHW\Regex2\bin\Debug\netcoreapp3.1\Regex2.exe
+D:\work\SoftServeHW\Regex2\bin\Debug\netcoreapp3.1\Regex2.deps.json
+D:\work\SoftServeHW\Regex2\bin\Debug\netcoreapp3.1\Regex2.runtimeconfig.json
+D:\work\SoftServeHW\Regex2\bin\Debug\netcoreapp3.1\Regex2.runtimeconfig.dev.json
+D:\work\SoftServeHW\Regex2\bin\Debug\netcoreapp3.1\Regex2.dll
+D:\work\SoftServeHW\Regex2\bin\Debug\netcoreapp3.1\Regex2.pdb
+D:\work\SoftServeHW\Regex2\obj\Debug\netcoreapp3.1\Regex2.csprojAssemblyReference.cache
+D:\work\SoftServeHW\Regex2\obj\Debug\netcoreapp3.1\Regex2.AssemblyInfoInputs.cache
+D:\work\SoftServeHW\Regex2\obj\Debug\netcoreapp3.1\Regex2.AssemblyInfo.cs
+D:\work\SoftServeHW\Regex2\obj\Debug\netcoreapp3.1\Regex2.dll
+D:\work\SoftServeHW\Regex2\obj\Debug\netcoreapp3.1\Regex2.pdb

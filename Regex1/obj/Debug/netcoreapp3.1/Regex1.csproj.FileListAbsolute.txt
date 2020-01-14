@@ -8,3 +8,4 @@ D:\work\SoftServeHW\Regex1\obj\Debug\netcoreapp3.1\Regex1.AssemblyInfoInputs.cac
 D:\work\SoftServeHW\Regex1\obj\Debug\netcoreapp3.1\Regex1.AssemblyInfo.cs
 D:\work\SoftServeHW\Regex1\obj\Debug\netcoreapp3.1\Regex1.dll
 D:\work\SoftServeHW\Regex1\obj\Debug\netcoreapp3.1\Regex1.pdb
+D:\work\SoftServeHW\Regex1\obj\Debug\netcoreapp3.1\Regex1.csprojAssemblyReference.cache
