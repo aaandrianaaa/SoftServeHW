@@ -1,0 +1,11 @@
+D:\work\SoftServeHW\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.exe
+D:\work\SoftServeHW\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.deps.json
+D:\work\SoftServeHW\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.runtimeconfig.json
+D:\work\SoftServeHW\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.runtimeconfig.dev.json
+D:\work\SoftServeHW\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.dll
+D:\work\SoftServeHW\OperatorsOverloading\bin\Debug\netcoreapp3.1\OperatorsOverloading.pdb
+D:\work\SoftServeHW\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.csprojAssemblyReference.cache
+D:\work\SoftServeHW\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.AssemblyInfoInputs.cache
+D:\work\SoftServeHW\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.AssemblyInfo.cs
+D:\work\SoftServeHW\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.dll
+D:\work\SoftServeHW\OperatorsOverloading\obj\Debug\netcoreapp3.1\OperatorsOverloading.pdb
