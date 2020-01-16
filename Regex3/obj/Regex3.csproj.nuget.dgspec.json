@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\work\\SoftServeHW\\Regex2\\Regex2.csproj": {}
+    "D:\\work\\SoftServeHW\\Regex3\\Regex3.csproj": {}
   },
   "projects": {
-    "D:\\work\\SoftServeHW\\Regex2\\Regex2.csproj": {
+    "D:\\work\\SoftServeHW\\Regex3\\Regex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\work\\SoftServeHW\\Regex2\\Regex2.csproj",
-        "projectName": "Regex2",
-        "projectPath": "D:\\work\\SoftServeHW\\Regex2\\Regex2.csproj",
+        "projectUniqueName": "D:\\work\\SoftServeHW\\Regex3\\Regex3.csproj",
+        "projectName": "Regex3",
+        "projectPath": "D:\\work\\SoftServeHW\\Regex3\\Regex3.csproj",
         "packagesPath": "C:\\Users\\aandr\\.nuget\\packages\\",
-        "outputPath": "D:\\work\\SoftServeHW\\Regex2\\obj\\",
+        "outputPath": "D:\\work\\SoftServeHW\\Regex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
